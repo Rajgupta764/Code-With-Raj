@@ -1,0 +1,15 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Backend in node js and express js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "java",
+    "Script"
+  ],
+  "author": "Raj kumar",
+  "license": "ISC"
+}
